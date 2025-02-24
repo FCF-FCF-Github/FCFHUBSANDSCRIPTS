@@ -5,7 +5,7 @@
  |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
  |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
          \/          \/         \/    \/                \/     \/     \/                   
-          \_Why are you even here? This script is obfuscated, if script doesn't working, use Synapse X Remake
+          \_Why are you even here? This script is obfuscated, if script doesn't working, use Cryptic (Paid)
 
 ]]--
 
